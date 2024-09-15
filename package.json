@@ -36,8 +36,8 @@
   },
   "homepage": "https://github.com/greecejs/greece-afm#readme",
   "devDependencies": {
-    "eslint": "^2.0.0-rc.0",
-    "istanbul": "^0.4.2",
-    "tape": "^4.4.0"
+    "eslint": "7.32.0",
+    "istanbul": "^0.4.5",
+    "tape": "^5.8.1"
   }
 }
